@@ -1,0 +1,24 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasia-94/gulp.git"
+  },
+  "author": "KATE <kasia-94@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasia-94/gulp/issues"
+  },
+  "homepage": "https://github.com/kasia-94/gulp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
